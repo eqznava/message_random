@@ -1,2 +1,2 @@
 # message_random
-Show random message in console
+Randomly displays a python zen message to the console.
